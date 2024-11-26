@@ -5,9 +5,13 @@
 ##**🛠️TECNOLOGIAS UTILIZADAS**:
 
 *Node.js*: Ambiente de execução para JavaScript no servidor.
+
 *Express*: Framework para construção de APIs em Node.js.
+
 *MongoDB*: Banco de dados NoSQL para armazenamento dos posts.
+
 *Multer*: Middleware para manipulação de uploads de arquivos.
+
 *Google Gemini*: Integração com a API de IA para funcionalidades avançadas.
 
 ###**ESTRUTURA DO PROJETO**
