@@ -57,8 +57,6 @@ O servidor estará disponível em http://localhost:<porta_desejada>.
 
 *POST /posts*: Cria um novo post.
 
-*POST /upload*: Faz o upload de uma imagem e cria um post associado.
-
 *PUT /upload/:id*: Atualiza um post existente com uma nova imagem.
 
 
